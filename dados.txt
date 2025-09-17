@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Eli
+-Profissão: Analista de QA
+-Cidade:São Sebastião
+-O que faz nas horas vaga: Dou cursos "estudos' biblicos para familias da comunidade sou testemunha de Jeová e amo fazer estudos.
+-Feedback sobre o curso Qualidade de Software:Estou amando, com poucas palavras ensina muito conteúdo o que é excelente, é o que chamo de "fala pouco e ensina muito"!
+-Feedback sobre a plataforma de estudo da EBAC: Estou gostando bastante, acredito que algumas informações simples como o nº do módulo nos títulos facilitariam a navegação entre outras sugestões, mas em geral é muito boa.
 
 Obrigado!!!
 
